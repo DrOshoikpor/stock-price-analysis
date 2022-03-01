@@ -20,7 +20,7 @@ The metrics include:
 
 - To determine how much value we put at risk by investing in a particular stock.
 
-- To determine how we can attempt to predict future stock behavior?
+- To determine how we can attempt to predict future stock behavior
 
 
 ![pexels-pixabay-210607.jpg](https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
